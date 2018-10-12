@@ -3,6 +3,7 @@ Recent years have seen a sharp increase in online connectivity with more mobile 
 
 We aim to develop a cross-platform disaster management and surveillance system for real time warning, early emergency broadcast, forecast, tracking and first respondance support to natural calamities all over the world. The system is implemented in two phases.
 
+
 ![alt text](https://image.ibb.co/eXQuW9/safebeacon.jpg)
 
 <B>SAFEBEACON: A dynamic disaster Monitoring service</B>
@@ -14,6 +15,7 @@ We aim to develop a cross-platform disaster management and surveillance system f
 - Automated recommendations of functioning critical services and rescue centres in nearby location. 
 - Alert people in affected area by a robust system built to withstand unstable network conditions.
 - Targeted disaster relief management using Social Media integration.
+
 
 ![alt text](https://image.ibb.co/bLH8r9/promptd.jpg)
 
