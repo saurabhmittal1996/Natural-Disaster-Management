@@ -12,7 +12,8 @@ We aim to develop a cross-platform disaster management and surveillance system f
 - Forest fire database, risk areas and public safety announcements based on current location.
 - Integrated RSS feed from popular natural disaster tracking services- specially for fatal landslides, winter storms, snow covers and extreme weather reports.
 - Automated recommendations of functioning critical services and rescue centres in nearby location. 
-- Alert people in affected area by a robust system built to withstand unstable network conditions. 
+- Alert people in affected area by a robust system built to withstand unstable network conditions.
+- Social Media integration.
 
 ![alt text](https://image.ibb.co/bLH8r9/promptd.jpg)
 
@@ -23,4 +24,4 @@ We aim to develop a cross-platform disaster management and surveillance system f
 - Location based service to curb false alarms and create personalised report.
 - Individual monitoring service, where friends and families can search for individuals living in the affected area by uploading their photos to dedicated law enforcement database.
 
-We aim to develop our product into a full stack global solution for public and government use towards resillience to natural disasters- to help dispatch early support based on popular forecasting frameworks in existance.
+We aim to develop our product into a full stack global solution for public and government use towards resillience to natural disasters- to help dispatch early support based on popular forecasting frameworks in existance. Such an effort will enable seamless integration with modern satellite data, and upcoming digital relief service solutions- to name a few and also usher novel usecases to create a robust, and overall better humantarian solution using modern technology.
